@@ -8,7 +8,7 @@
 <!-- Seção: Sobre mim -->
 <h3 align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhldWw3d3Jucm5maGh6MHplbWhtMzl3bmY3MTZjcTFtbWFnaG42cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="20">
-  Learning new things ✍️
+  Fields of Interest ✍️
 </h3>
 
 <table border="0">
@@ -19,9 +19,10 @@
     <td>
       <ul>
         <li>Python</li>
-        <li>Shell scripting</li>
+        <li>Shell Scripting</li>
         <li>Deep Learning</li>
         <li>Computer Vision</li>
+        <li>Web Development (Backend)</li>
       </ul>
     </td>
   </tr>
