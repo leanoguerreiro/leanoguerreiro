@@ -22,8 +22,6 @@
         <li>Shell scripting</li>
         <li>Deep Learning</li>
         <li>Computer Vision</li>
-        <li>Design Patterns</li>
-        <li>Human–Computer Interaction</li>
       </ul>
     </td>
   </tr>
