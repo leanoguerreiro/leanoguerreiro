@@ -33,13 +33,13 @@
 <!-- Seção: Estatísticas -->
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=leanoguerreiro&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=leanoguerreiro&theme=transparent&show_icons=true&hide_border=true&count_private=true" width="48%">
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=leanoguerreiro&theme=blue_navy&hide_border=true" width="48%">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=leanoguerreiro&theme=transparent&hide_border=true" width="48%">
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanoguerreiro&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=donut" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanoguerreiro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" width="48%">
 
 </div>
 
