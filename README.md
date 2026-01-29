@@ -9,25 +9,6 @@
 I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷, passionate about technology and innovation. I love working with Python, AI, and building scalable backend solutions.
 
 ## 💡 Fields of Interest
-<div align="center">
-<table style="border-collapse: collapse; border: none; border-spacing: 0;">
-  <tr>
-    <td style="border: none; padding: 10px; width: 50%;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN3NHdudnoycjhrNWMwMm9lMHI0OHFjN2VnOTZvaTQ0N3hrazZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" alt="Coding GIF">
-    </td>
-    <td style="border: none; padding: 10px; width: 50%;">
-      <ul style="list-style-type: none; margin: 0; padding: 0;">
-        <li>🐍 <strong>Python Development</strong></li>
-        <li>🖥️ <strong>Shell Scripting</strong></li>
-        <li>🧠 <strong>Deep Learning</strong></li>
-        <li>🧠 <strong>Neuromorphic Computing</strong></li>
-        <li>👁️ <strong>Computer Vision</strong></li>
-        <li>⚙️ <strong>Backend Development</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
 
 <div align="center">
 <table style="border-collapse: collapse; border: none; border-spacing: 0;">
