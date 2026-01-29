@@ -10,16 +10,41 @@ I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷,
 
 ## 💡 Fields of Interest
 <div align="center">
-<table>
+<table style="border-collapse: collapse; border: none; border-spacing: 0;">
   <tr>
-    <td width="50%">
+    <td style="border: none; padding: 10px; width: 50%;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN3NHdudnoycjhrNWMwMm9lMHI0OHFjN2VnOTZvaTQ0N3hrazZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100%" alt="Coding GIF">
     </td>
-    <td width="50%">
-      <ul>
+    <td style="border: none; padding: 10px; width: 50%;">
+      <ul style="list-style-type: none; margin: 0; padding: 0;">
         <li>🐍 <strong>Python Development</strong></li>
         <li>🖥️ <strong>Shell Scripting</strong></li>
         <li>🧠 <strong>Deep Learning</strong></li>
+        <li>🧠 <strong>Neuromorphic Computing</strong></li>
+        <li>👁️ <strong>Computer Vision</strong></li>
+        <li>⚙️ <strong>Backend Development</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table style="border-collapse: collapse; border: none; border-spacing: 0;">
+  <tr>
+    <td width="50%" style="border: none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN3NHdudnoycjhrNWMwMm9lMHI0OHFjN2VnOTZvaTQ0N3hrazZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU5bzY3dHBmcjJucXc4amNnbTVvaThlcXRpb3JpaWV3M29zcDg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/irxUXpmwHPfPrcZOV9/giphy.gif">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU5bzY3dHBmcjJucXc4amNnbTVvaThlcXRpb3JpaWV3M29zcDg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/irxUXpmwHPfPrcZOV9/giphy.gif" width="100%" alt="Coding GIF">
+      </picture>
+    </td>
+    <td width="50%" style="border: none;">
+      <ul style="list-style: none; padding-left: 20px;">
+        <li>🐍 <strong>Python Development</strong></li>
+        <li>🖥️ <strong>Shell Scripting</strong></li>
+        <li>🧠 <strong>Deep Learning</strong></li>
+        <li>🧠 <strong>Neuromorphic Computing</strong></li>
         <li>👁️ <strong>Computer Vision</strong></li>
         <li>⚙️ <strong>Backend Development</strong></li>
       </ul>
@@ -50,6 +75,13 @@ I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
 
 </div>
+
+## 📌 Featured Projects
+| Project | Field | Stack |
+|-------|------|------|
+| [Skills DL](https://github.com/leanoguerreiro/skills-classification-deeplearning) | Deep Learning | PyTorch |
+| [Escalonamento](https://github.com/leanoguerreiro/avaliador-de-escalonamento-de-processos-interativos) | SO | Python |
+
 
 ## 📊 GitHub Statistics
 
