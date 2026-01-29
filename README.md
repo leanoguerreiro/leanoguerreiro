@@ -27,6 +27,7 @@ I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷,
   </tr>
 </table>
 </div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
