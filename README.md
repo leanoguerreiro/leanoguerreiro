@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm **Leano Guerreiro**, a Backend Engineer Studant with a research-driven focus on AI, Computer Vision and Neuromorphic Computing.
+I'm **Leano Guerreiro**, a Backend Studant with a research-driven focus on AI, Computer Vision and Neuromorphic Computing.
 
 🎓 **7th semester** - Information Systems @ [UFAM](https://ufam.edu.br/) (Federal University of Amazonas) 🇧🇷  
 🧠 Research focus: **Deep Learning, Computer Vision & Neuromorphic Computing**  
