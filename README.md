@@ -1,43 +1,53 @@
 # 👋 Welcome to my GitHub!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2fa4e1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Leano+Guerreiro;Information+Systems+Graduate;Backend+Developer+%7C+AI+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2fa4e1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Leano+Guerreiro;Information+Systems+%40+UFAM;Backend+Engineer+%7C+AI+Researcher" alt="Typing SVG">
 </div>
 
 ## 🚀 About Me
 
-I'm **Leano Guerreiro**.
+I'm **Leano Guerreiro**, a Backend Engineer Studant with a research-driven focus on AI, Computer Vision and Neuromorphic Computing.
 
-💻 **Information Systems Graduate** from Brazil 🇧🇷  
-🧠 Enthusiast in **AI, Deep Learning & Computer Vision**  
-⚙️ Building scalable **Backend Solutions** with Python  
-🔬 Exploring **Neuromorphic Computing** and cutting-edge AI
+🎓 **7th semester** - Information Systems @ [UFAM](https://ufam.edu.br/) (Federal University of Amazonas) 🇧🇷  
+🧠 Research focus: **Deep Learning, Computer Vision & Neuromorphic Computing**  
+⚙️ Engineering: **Scalable Backend Solutions** with Python  
 
 ## 💡 Fields of Interest
 
 <div align="center">
-<table style="border-collapse: collapse; border: none; border-spacing: 0;">
+<table>
   <tr>
-    <td width="50%" style="border: none;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN3NHdudnoycjhrNWMwMm9lMHI0OHFjN2VnOTZvaTQ0N3hrazZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
-        <source media="(prefers-color-scheme: light)" srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU5bzY3dHBmcjJucXc4amNnbTVvaThlcXRpb3JpaWV3M29zcDg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/irxUXpmwHPfPrcZOV9/giphy.gif">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU5bzY3dHBmcjJucXc4amNnbTVvaThlcXRpb3JpaWV3M29zcDg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/irxUXpmwHPfPrcZOV9/giphy.gif" width="100%" alt="Coding GIF">
-      </picture>
+    <td width="50%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN3NHdudnoycjhrNWMwMm9lMHI0OHFjN2VnOTZvaTQ0N3hrazZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="90%" alt="Coding GIF">
     </td>
-    <td width="50%" style="border: none;">
-      <ul style="list-style: none; padding-left: 20px;">
-        <li>🐍 <strong>Python Development</strong></li>
-        <li>🧠 <strong>Deep Learning</strong></li>
-        <li>🧠 <strong>Neuromorphic Computing</strong></li>
-        <li>👁️ <strong>Computer Vision</strong></li>
-        <li>⚙️ <strong>Backend Development</strong></li>
-        <li>🖥️ <strong>Shell Scripting</strong></li>
-      </ul>
+    <td width="50%">
+      <br>
+      🐍 <strong>Python Development</strong><br>
+      <sub>Scientific computing, backend systems</sub>
+      <br><br>
+      🧠 <strong>Deep Learning</strong><br>
+      <sub>PyTorch, model optimization, deployment</sub>
+      <br><br>
+      🔮 <strong>Neuromorphic Computing</strong><br>
+      <sub>SNNs, event-based processing, brain-inspired AI</sub>
+      <br><br>
+      👁️ <strong>Computer Vision</strong><br>
+      <sub>Image processing, object detection, visual AI</sub>
+      <br><br>
+      ⚙️ <strong>Backend Engineering</strong><br>
+      <sub>APIs, microservices, ML deployment</sub>
+      <br>
     </td>
   </tr>
 </table>
 </div>
+
+## 🔬 Research Interests
+
+- **Spiking Neural Networks (SNNs)** and neuromorphic architectures
+- **Event-based vision** and temporal processing
+- **Representation learning** in bio-inspired systems
+- **Efficient AI** for edge computing and embedded systems
 
 ## 🛠️ Tech Stack
 
@@ -46,39 +56,57 @@ I'm **Leano Guerreiro**.
   <tr>
     <td align="center" width="33%">
       <h3>Languages & Frameworks</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="c logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin"/>
     </td>
     <td align="center" width="33%">
       <h3>AI & Data Science</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter"/>
     </td>
     <td align="center" width="33%">
       <h3>Tools & Environment</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" /><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" title="PyCharm"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
     </td>
   </tr>
 </table>
 </div>
 
-
-
-
-
 ## 📌 Featured Projects
-| Project | Field | Stack |
-|-------|------|------|
-| [Skills DL](https://github.com/leanoguerreiro/skills-classification-deeplearning) | Deep Learning | PyTorch |
-| [Escalonamento](https://github.com/leanoguerreiro/avaliador-de-escalonamento-de-processos-interativos) | SO | Python |
 
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [Skills Classification - Deep Learning](https://github.com/leanoguerreiro/skills-classification-deeplearning)
+**Field:** Deep Learning | **Stack:** PyTorch, scikit-learn
+
+Multi-class text classification using deep neural networks to categorize professional skills. Implements attention mechanisms and achieves 87% accuracy on real-world job description datasets.
+
+**Key techniques:** Transfer learning, text embeddings, model evaluation
+
+</td>
+<td width="50%">
+
+### ⚙️ [Interactive Process Scheduler Evaluator](https://github.com/leanoguerreiro/avaliador-de-escalonamento-de-processos-interativos)
+**Field:** Operating Systems | **Stack:** Python
+
+Educational tool for analyzing CPU scheduling algorithms with interactive visualizations. Compares FCFS, SJF, Round-Robin and Priority scheduling with real-time performance metrics.
+
+**Key features:** Algorithm benchmarking, visual analytics, performance profiling
+
+</td>
+</tr>
+</table>
+
+> 💡 *Combining theoretical research with practical engineering to build intelligent, scalable systems*
 
 ## 📊 GitHub Statistics
 
@@ -142,10 +170,11 @@ I'm **Leano Guerreiro**.
 
 ## 🎯 Current Focus
 
-- 🔭 Working on **Deep Learning** and **Computer Vision** projects
-- 🌱 Exploring advanced **AI/ML** techniques
-- 💼 Building robust **Backend APIs** with Python
-- 📚 Constantly learning and improving my skills
+- 🔬 Researching **Spiking Neural Networks** for energy-efficient AI
+- 🔭 Building **Computer Vision** pipelines for real-time applications  
+- 💼 Deploying **ML models** as production-grade REST APIs
+- 📚 Exploring **neuromorphic frameworks** (Norse, Brian2, BindsNET)
+- 🌱 Contributing to **open-source AI projects**
 
 ## 📫 Let's Connect!
 
@@ -162,7 +191,6 @@ I'm **Leano Guerreiro**.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=leanoguerreiro&color=2fa4e1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
-  <p><em> 🧠 Forged in chrome and code by <a href="https://github.com/leanoguerreiro">leanoguerreiro</a>⚡</em></p>
-<p><sub>NetRunner · Backend · Computer Vision</sub></p>
-
+  <p><em>🧠 Forged in chrome and code by <a href="https://github.com/leanoguerreiro">leanoguerreiro</a> ⚡</em></p>
+  <p><sub>Research-Driven Engineer · Backend · Computer Vision · Neuromorphic AI</sub></p>
 </div>
