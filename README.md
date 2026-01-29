@@ -142,6 +142,7 @@ I'm **Leano Guerreiro**.
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guerreiroleano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leano-guerreiro-9b93382b5)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6794--3385-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6794-3385)
 
 </div>
 
