@@ -9,7 +9,7 @@
 I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷, passionate about technology and innovation. I love working with Python, AI, and building scalable backend solutions.
 
 ## 💡 Fields of Interest
-
+<div align="center">
 <table>
   <tr>
     <td width="50%">
@@ -26,7 +26,7 @@ I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷,
     </td>
   </tr>
 </table>
-
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
