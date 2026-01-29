@@ -6,7 +6,12 @@
 
 ## 🚀 About Me
 
-I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷, passionate about technology and innovation. I love working with Python, AI, and building scalable backend solutions.
+I'm **Leano Guerreiro**.
+
+💻 **Information Systems Graduate** from Brazil 🇧🇷  
+🧠 Enthusiast in **AI, Deep Learning & Computer Vision**  
+⚙️ Building scalable **Backend Solutions** with Python  
+🔬 Exploring **Neuromorphic Computing** and cutting-edge AI
 
 ## 💡 Fields of Interest
 
@@ -23,11 +28,11 @@ I'm **Leano Guerreiro**, a Graduate in Information Systems from Brazil 🇧🇷,
     <td width="50%" style="border: none;">
       <ul style="list-style: none; padding-left: 20px;">
         <li>🐍 <strong>Python Development</strong></li>
-        <li>🖥️ <strong>Shell Scripting</strong></li>
         <li>🧠 <strong>Deep Learning</strong></li>
         <li>🧠 <strong>Neuromorphic Computing</strong></li>
         <li>👁️ <strong>Computer Vision</strong></li>
         <li>⚙️ <strong>Backend Development</strong></li>
+        <li>🖥️ <strong>Shell Scripting</strong></li>
       </ul>
     </td>
   </tr>
