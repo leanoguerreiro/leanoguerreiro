@@ -88,7 +88,7 @@ I'm **Leano Guerreiro**, a Backend Studant with a research-driven focus on AI, C
 ### 🧠 [Skills Classification - Deep Learning](https://github.com/leanoguerreiro/skills-classification-deeplearning)
 **Field:** Deep Learning | **Stack:** PyTorch, scikit-learn
 
-Multi-class text classification using deep neural networks to categorize professional skills. Implements attention mechanisms and achieves 87% accuracy on real-world job description datasets.
+This repository contains a deep learning pipeline for classifying brain tumors from MRI images. The pipeline is designed for experimentation with various pre-trained models, data augmentation techniques (including Gaussian noise), and robustness testing on noisy validation sets using k-fold cross-validation.
 
 **Key techniques:** Transfer learning, text embeddings, model evaluation
 
@@ -98,7 +98,7 @@ Multi-class text classification using deep neural networks to categorize profess
 ### ⚙️ [Interactive Process Scheduler Evaluator](https://github.com/leanoguerreiro/avaliador-de-escalonamento-de-processos-interativos)
 **Field:** Operating Systems | **Stack:** Python
 
-Educational tool for analyzing CPU scheduling algorithms with interactive visualizations. Compares FCFS, SJF, Round-Robin and Priority scheduling with real-time performance metrics.
+This repository deals with the scheduling of interactive processes in operating systems, focusing on the analysis and implementation of a simulator that allows studying the behavior of different scheduling algorithms.
 
 **Key features:** Algorithm benchmarking, visual analytics, performance profiling
 
