@@ -22,7 +22,7 @@ jobs:
           user: leanoguerreiro
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Manaus
+          config_timezone: America/Sao_Paulo
           
           # Plugin: Linguagens (Substitui o top-langs)
           plugin_languages: yes
