@@ -8,7 +8,7 @@
 
 I'm **Leano Guerreiro**, a Backend Studant with a research-driven focus on AI, Computer Vision and Neuromorphic Computing.
 
-🎓 **7th semester** - Information Systems @ [UFAM](https://ufam.edu.br/) (Federal University of Amazonas) 🇧🇷  
+🎓 **7th semester** - Information Systems @ [UFAM](https://ufam.edu.br/) (Federal University of Amazonas) 🇧🇷 
 🧠 Research focus: **Deep Learning, Computer Vision & Neuromorphic Computing**  
 ⚙️ Engineering: **Scalable Backend Solutions** with Python  
 
@@ -119,8 +119,7 @@ This repository deals with the scheduling of interactive processes in operating 
 - 🔬 Researching **Spiking Neural Networks** for energy-efficient AI
 - 🔭 Building **Computer Vision** pipelines for real-time applications  
 - 💼 Deploying **ML models** as production-grade REST APIs
-- 📚 Exploring **neuromorphic frameworks** (Norse, Brian2, BindsNET)
-- 🌱 Contributing to **open-source AI projects**
+- 📚 Exploring **neuromorphic frameworks** (Norse, Brian2, BindsNET, SnnTorch and SpikingJelly)
 
 ## 📫 Let's Connect!
 
