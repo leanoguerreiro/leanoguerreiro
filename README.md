@@ -111,61 +111,7 @@ This repository deals with the scheduling of interactive processes in operating 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=leanoguerreiro&theme=transparent&show_icons=true&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=leanoguerreiro&theme=transparent&show_icons=true&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: light)" />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=leanoguerreiro&theme=transparent&show_icons=true&hide_border=true&count_private=true"
-      width="50%" />
-  </picture>
-
-   <!-- Streak -->
-  <picture>
-    <source
-      srcset="https://nirzak-streak-stats.vercel.app/?user=leanoguerreiro&theme=transparent&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://nirzak-streak-stats.vercel.app/?user=leanoguerreiro&theme=transparent&hide_border=true&count_private=true"
-      media="(prefers-color-scheme: light)" />
-    <img
-      src="https://nirzak-streak-stats.vercel.app/?user=leanoguerreiro&theme=transparent&hide_border=true&count_private=true"
-      width="49%" />
-  </picture>
-  
-</div>
-
-<div align="center">
-  <!-- Top Langs Donut -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leanoguerreiro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leanoguerreiro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
-      media="(prefers-color-scheme: light)" />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanoguerreiro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut"
-      width="49%" />
-  </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=leanoguerreiro&theme=github-dark&hide_border=true&area=true"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=leanoguerreiro&theme=github-compact&hide_border=true&area=true"
-      media="(prefers-color-scheme: light)" />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=leanoguerreiro&theme=github-compact&hide_border=true&area=true"
-      width="49%"
-      alt="Contribution Graph" />
-
-  </picture>
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ## 🎯 Current Focus
