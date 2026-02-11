@@ -38,7 +38,7 @@ jobs:
           plugin_lines: yes
           
           # Plugin: Habits (Mostra horários que você mais coda)
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 200       # ADICIONE ESTA LINHA (limita a leitura a 200 eventos)
           plugin_habits_days: 14        # Mantém 14 dias
           plugin_habits_facts: yes      # Mostra fatos curiosos
