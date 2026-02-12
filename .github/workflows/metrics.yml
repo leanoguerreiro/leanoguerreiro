@@ -19,7 +19,7 @@ jobs:
 
           # --- Configurações Visuais ---
           user: leanoguerreiro
-          template: terminal
+          template: classic
           config_timezone: America/Manaus
           
           base: header, activity, repositories, community
