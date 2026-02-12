@@ -19,8 +19,8 @@ jobs:
 
           # --- Configurações Visuais ---
           user: leanoguerreiro
-          template: classic
-          config_timezone: America/Sao_Paulo
+          template: terminal
+          config_timezone: America/Manaus
           
           # Removemos "community" e "metadata" para limpar o visual
           base: header, activity, repositories
