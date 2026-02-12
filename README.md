@@ -1,112 +1,39 @@
-# 👋 Welcome to my GitHub!
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2fa4e1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Leano+Guerreiro;Information+Systems+%40+UFAM;Backend+Engineer+%7C+AI+Researcher" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2fa4e1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Leano+Guerreiro;Backend+Engineer+%7C+AI+Researcher" alt="Typing SVG">
 </div>
 
 ## 🚀 About Me
 
-I'm **Leano Guerreiro**, a Backend Studant with a research-driven focus on AI, Computer Vision and Neuromorphic Computing.
+I'm **Leano Guerreiro**, an Information Systems student at **[UFAM](https://ufam.edu.br/)** (7th semester). My work bridges the gap between **Scalable Backend Engineering** and **Bio-inspired AI**.
 
-🎓 **7th semester** - Information Systems @ [UFAM](https://ufam.edu.br/) (Federal University of Amazonas) 🇧🇷 
-🧠 Research focus: **Deep Learning, Computer Vision & Neuromorphic Computing**  
-⚙️ Engineering: **Scalable Backend Solutions** with Python  
-
-## 💡 Fields of Interest
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN3NHdudnoycjhrNWMwMm9lMHI0OHFjN2VnOTZvaTQ0N3hrazZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="90%" alt="Coding GIF">
-    </td>
-    <td width="50%">
-      <br>
-      🐍 <strong>Python Development</strong><br>
-      <sub>Scientific computing, backend systems</sub>
-      <br><br>
-      🧠 <strong>Deep Learning</strong><br>
-      <sub>PyTorch, model optimization, deployment</sub>
-      <br><br>
-      🔮 <strong>Neuromorphic Computing</strong><br>
-      <sub>SNNs, event-based processing, brain-inspired AI</sub>
-      <br><br>
-      👁️ <strong>Computer Vision</strong><br>
-      <sub>Image processing, object detection, visual AI</sub>
-      <br><br>
-      ⚙️ <strong>Backend Engineering</strong><br>
-      <sub>APIs, microservices, ML deployment</sub>
-      <br>
-    </td>
-  </tr>
-</table>
-</div>
-
-## 🔬 Research Interests
-
-- **Spiking Neural Networks (SNNs)** and neuromorphic architectures
-- **Event-based vision** and temporal processing
-- **Representation learning** in bio-inspired systems
-- **Efficient AI** for edge computing and embedded systems
+### 🔭 Research & Focus
+* **Deep Learning & Computer Vision:** Building pipelines for real-time applications and medical imaging.
+* **Neuromorphic Computing:** Exploring SNNs (Spiking Neural Networks) and event-based vision for energy-efficient AI.
+* **Backend Engineering:** Developing production-grade REST APIs and Microservices with Python.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Languages & Frameworks</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="Kotlin"/>
-    </td>
-    <td align="center" width="33%">
-      <h3>AI & Data Science</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter"/>
-    </td>
-    <td align="center" width="33%">
-      <h3>Tools & Environment</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" title="PyCharm"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-    </td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+* 🧠 **[Skills Classification - Deep Learning](https://github.com/leanoguerreiro/skills-classification-deeplearning)**
+    * *Stack:* PyTorch, scikit-learn
+    * A deep learning pipeline for brain tumor classification, featuring data augmentation (Gaussian noise) and robustness testing via k-fold cross-validation.
 
-### 🧠 [Skills Classification - Deep Learning](https://github.com/leanoguerreiro/skills-classification-deeplearning)
-**Field:** Deep Learning | **Stack:** PyTorch, scikit-learn
-
-This repository contains a deep learning pipeline for classifying brain tumors from MRI images. The pipeline is designed for experimentation with various pre-trained models, data augmentation techniques (including Gaussian noise), and robustness testing on noisy validation sets using k-fold cross-validation.
-
-**Key techniques:** Transfer learning, text embeddings, model evaluation
-
-</td>
-<td width="50%">
-
-### ⚙️ [Interactive Process Scheduler Evaluator](https://github.com/leanoguerreiro/avaliador-de-escalonamento-de-processos-interativos)
-**Field:** Operating Systems | **Stack:** Python
-
-This repository deals with the scheduling of interactive processes in operating systems, focusing on the analysis and implementation of a simulator that allows studying the behavior of different scheduling algorithms.
-
-**Key features:** Algorithm benchmarking, visual analytics, performance profiling
-
-</td>
-</tr>
-</table>
-
-> 💡 *Combining theoretical research with practical engineering to build intelligent, scalable systems*
+* ⚙️ **[Interactive Process Scheduler](https://github.com/leanoguerreiro/avaliador-de-escalonamento-de-processos-interativos)**
+    * *Stack:* Python
+    * An OS simulator for benchmarking and visualizing different process scheduling algorithms.
 
 ## 📊 GitHub Statistics
 
@@ -114,28 +41,19 @@ This repository deals with the scheduling of interactive processes in operating 
   <img src="github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
-## 🎯 Current Focus
-
-- 🔬 Researching **Spiking Neural Networks** for energy-efficient AI
-- 🔭 Building **Computer Vision** pipelines for real-time applications  
-- 💼 Deploying **ML models** as production-grade REST APIs
-- 📚 Exploring **neuromorphic frameworks** (Norse, Brian2, BindsNET, SnnTorch and SpikingJelly)
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guerreiroleano@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leano-guerreiro-9b93382b5)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6794--3385-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-6794-3385)
-
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leanoguerreiro&color=2fa4e1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <a href="mailto:guerreiroleano@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/leano-guerreiro-9b93382b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://orcid.org/0009-0004-6794-3385">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
   
-  <p><em>🧠 Forged in chrome and code by <a href="https://github.com/leanoguerreiro">leanoguerreiro</a> ⚡</em></p>
-  <p><sub>Research-Driven Engineer · Backend · Computer Vision · Neuromorphic AI</sub></p>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=leanoguerreiro&color=2fa4e1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
