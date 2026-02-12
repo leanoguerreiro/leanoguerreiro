@@ -22,8 +22,7 @@ jobs:
           template: terminal
           config_timezone: America/Manaus
           
-          # Removemos "community" e "metadata" para limpar o visual
-          base: header, activity, repositories
+          base: header, activity, repositories, community
           
           # --- Plugin: Linguagens ---
           plugin_languages: yes
@@ -43,7 +42,10 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
 
-          # --- Plugin: Conquistas (Novo - Dá um toque "Gamer/Pro") ---
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, languages, projects
+
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
