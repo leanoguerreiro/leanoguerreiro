@@ -5,7 +5,7 @@ on:
   # Permite rodar manualmente
   workflow_dispatch:
   # Roda quando há push na branch main/master
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master", "main", "develop", "Develop", "release", "Release]}
 
 jobs:
   github-metrics:
