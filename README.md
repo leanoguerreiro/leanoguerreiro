@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm **Leano Guerreiro**, an Information Systems student at **[UFAM](https://ufam.edu.br/)** (7th semester). My work bridges the gap between **Scalable Backend Engineering** and **Bio-inspired AI**.
+I'm **Leano Guerreiro**, an Information Systems student at **[UFAM](https://ufam.edu.br/)** (8th semester). My work bridges the gap between **Scalable Backend Engineering** and **Bio-inspired AI**.
 
 ### 🔭 Research & Focus
 * **Deep Learning & Computer Vision:** Building pipelines for real-time applications and medical imaging.
